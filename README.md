@@ -15,7 +15,7 @@ MERN stack developer<br>React, Node.js, Express, MongoDB<br>Built full-stack web
 
 ###
 
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KunjGupta2006/KunjGupta2006/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KunjGupta2006/KunjGupta2006/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KunjGupta2006/KunjGupta2006/output/pacman-contribution-graph.svg">
@@ -23,8 +23,6 @@ MERN stack developer<br>React, Node.js, Express, MongoDB<br>Built full-stack web
 
 ###
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KunjGupta2006&icon=0&color=0)](https://visitcount.itsvg.in)
