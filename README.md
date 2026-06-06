@@ -15,13 +15,6 @@ MERN stack developer<br>React, Node.js, Express, MongoDB<br>Built full-stack web
 
 ###
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KunjGupta2006/KunjGupta2006/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KunjGupta2006/KunjGupta2006/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KunjGupta2006/KunjGupta2006/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 
 ---
